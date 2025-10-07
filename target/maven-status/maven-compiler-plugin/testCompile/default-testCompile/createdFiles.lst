@@ -1,0 +1,6 @@
+com\cine\magenta\service\MovieServiceImplTest.class
+com\cine\magenta\model\MovieTest.class
+com\cine\magenta\controller\MovieControllerTest.class
+com\cine\magenta\IntegrationTest.class
+com\cine\magenta\dao\MovieDAOImplTest.class
+com\cine\magenta\util\DatabaseConnectionTest.class

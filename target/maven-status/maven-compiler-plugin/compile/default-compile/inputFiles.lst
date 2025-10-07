@@ -1,0 +1,16 @@
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\config\DatabaseConfig.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\controller\MovieController.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\dao\MovieDAO.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\dao\MovieDAOImpl.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\main\CineMagentaApp.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\model\Movie.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\service\MovieService.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\service\MovieServiceImpl.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\util\DatabaseConnection.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\util\ExportUtil.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\util\MessageUtil.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\util\ValidationUtil.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\view\MainFrame.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\view\MovieFormView.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\view\MovieListView.java
+C:\Users\felix\OneDrive\Documents\NetBeansProjects\SistemaCineMagenta\src\main\java\com\cine\magenta\view\MovieSearchView.java
